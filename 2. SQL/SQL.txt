@@ -1,0 +1,5 @@
+Ось креди для підключення до БД:
+Host: 35.198.109.135
+DB: ads_analysis_goit_course
+User: da_one_sigma
+Pass: @m)Z2yd8Uf^$umKy
